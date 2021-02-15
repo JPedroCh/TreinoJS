@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+    margin-left: 0px;
+}
+.header-group-links {
+    background-color: white;
+}
+.faixa-logo {
+    background-color: red;
+    margin-top: 10px;
+    display: inline-table;
+    
+}
+
+section.left-section {
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: yellow;
+    float: left;
+}
+
+
+.news-1 {
+    background-color: white;
+    background-image: url('https://s2.glbimg.com/7YsS13Dkl2HQfu1dGcPRcKntihc=/0x0:1280x960/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/m/h/zB6OOHTvmVctUUItDKYw/pm-florianopolis-aglomeracao-vitor-meirelles-centro.jpg');
+    background-size: 100% 100%;
+    float: left;
+}
+
+section.right-section {
+    margin-top: 10px;
+    background-color: green;
+    float: right;
+}
+
+.news-2 {
+    float: right;
+    background-color: red;
+    background-image: url(https://www.rbsdirect.com.br/imagesrc/25229150.jpg?w=700);
+    background-size: 100% 100%;
+}
+
+.videos {
+    float: right;
+    background-color: rgb(236, 216, 219);
+    width:45vw;
+    display: inline;
+}
